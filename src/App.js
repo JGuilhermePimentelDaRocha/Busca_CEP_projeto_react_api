@@ -12,7 +12,7 @@ function App() {
     //25961143/json/
 
     if(input === ''){
-      alert('Preencher algum cep!')
+      alert('Preencher com algum cep!')
       return;
     }
 
